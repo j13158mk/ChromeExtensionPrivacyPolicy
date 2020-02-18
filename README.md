@@ -1,0 +1,2 @@
+# ChromeExtensionPrivacyPolicy
+GoogleChromeExtension PrivacyPolicy
