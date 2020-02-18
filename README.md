@@ -1,8 +1,16 @@
-## Welcome to GitHub Pages
+# Privacy policy for Chrome extensions developed by m.k
+## Chrome拡張のプライバシーポリシー
 
-You can use the [editor on GitHub](https://github.com/j13158mk/ChromeExtensionPrivacyPolicy/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+本プライバシーポリシーは、m.k（以下、「当開発者」）が開発したGoogleChromeの拡張機能(Extension)(以下、「拡張機能」とします。)の利用において、利用者の個人情報もしくはそれに準ずる情報を取り扱う際に、当開発者が遵守する方針を示したものです。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 基本方針
+当開発者は、個人情報の重要性を認識し、個人情報を保護することが社会的責務であると考え、個人情報に関する法令を遵守し、拡張機能で取扱う個人情報の取得、利用、管理を適正に行います。当サイトで収集した情報は、利用目的の範囲内で適切に取り扱います。
+
+### 適用範囲
+本プライバシーポリシーは、当開発者が開発した拡張機能においてのみ適用されます。
+
+### 個人情報の取得と利用目的
+
 
 ### Markdown
 
